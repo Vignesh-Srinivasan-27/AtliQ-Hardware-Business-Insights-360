@@ -37,4 +37,4 @@ AtliQ Hardware has experienced rapid growth in recent years and has embarked on 
 - By leveraging real-time data and analytics, the company can make proactive choices to sustain its market position.
 
 ## Live Report
-- [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiOWZmZGYxYjEtZmEyYS00YTdmLThiYjQtZmU5ZDBkZDExODU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNWE4YjgwYWQtMDEwYS00YjVjLThlYzMtNDE2Mzg1Y2Q2N2IxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
